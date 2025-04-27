@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+motor
+python-dotenv
+sentence-transformers
+faiss-cpu
+google-genai
+httpx

@@ -1,0 +1,4 @@
+.env
+venv
+readme.md
+__pycache__/
