@@ -54,7 +54,9 @@ Built for **IT Professionals**, **AI Enthusiasts**, and **News Addicts** who wan
 
 ## 📸 Screenshots
 
-![thumbnail.png](<https://media-hosting.imagekit.io/29d90c8fa7fa4a4a/thumbnail.png?Expires=1840555076&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TwyxjjhB~6xTPhOiv9~XYjzO2DbfMkNdJPH-aM8m-iZUQKY6~-XQ8KVqWQpkr5qrqSj6uTa0dTjgm55oaFHS-NX5dx~gcLhvHHxaVe-dXYaO1BBPwjMp1eh1bVNbPayRBZPidOmW97sPScFwKuTkfgVUqueI~HwHHRYudGuKe3trONcaAuhaRdmaO3zsEoBGOzRg1rKJdBd3znznmuPSp9yMJd0Z3DIV4cnTyqcKKDAtFZFz5Ilz-RKNzIliVaxTy4oV8Y1h8tU1VOmcFC2F5Anj0A6L8mr7scy2jRTy0TW-1witV7cGv58vNXlDkis67rkxNjwZXzxLaK4rY9AwIg__>)
+![thumbnail.png](<https://ik.imagekit.io/py7zov877/Screenshot%202025-04-29%20015755.png?updatedAt=1748197732982>)
+
+
 
 ---
 
